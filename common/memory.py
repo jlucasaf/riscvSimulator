@@ -1,6 +1,7 @@
 import numpy as np
 
 class Memory:
+    #teste
     def __init__(self, size=16384):
         self.memory = np.zeros(size, dtype=np.uint8)  # Memória com 16.384 bytes
 
